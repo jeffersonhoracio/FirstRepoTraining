@@ -7,3 +7,5 @@ Adding new line to test diferent branches.
 Adding another line because it's necessary and  I want it.
 
 This was late.
+
+Other line for testing
