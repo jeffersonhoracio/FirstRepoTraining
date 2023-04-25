@@ -2,4 +2,4 @@ Learning about git...
 
 Doing this file to test commands.
 
-Adding new line in the main branch 
+Adding new line to test diferent branches.
